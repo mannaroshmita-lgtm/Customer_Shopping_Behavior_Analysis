@@ -303,7 +303,7 @@ Business Insights & Recommendations
 - Data Visualization
 - Business Analytics
 
-📧 **Email:** Your Email
+📧 **Email:** mannaroshmita@gmai.com
 
 💼 **LinkedIn:** Your LinkedIn Profile
 
