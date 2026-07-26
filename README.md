@@ -306,6 +306,6 @@ Business Insights & Recommendations
 
 💼 **LinkedIn:** https://www.linkedin.com/in/roshmita-manna/
 
-🐙 **GitHub:**  https://github.com/mannaroshmita-lgtm
+🐙 **GitHub:*  https://github.com/mannaroshmita-lgtm
 
 
