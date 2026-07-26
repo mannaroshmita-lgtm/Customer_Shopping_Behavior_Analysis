@@ -304,8 +304,8 @@ Business Insights & Recommendations
 
 📧 **Email:** mannaroshmita@gmai.com
 
-💼 **LinkedIn:** Your LinkedIn Profile
+💼 **LinkedIn:** https://www.linkedin.com/in/roshmita-manna/
 
-🐙 **GitHub:** Your GitHub Profile
+🐙 **GitHub:**  https://github.com/mannaroshmita-lgtm
 
 
