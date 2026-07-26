@@ -302,10 +302,10 @@ Business Insights & Recommendations
 - Data Visualization
 - Business Analytics
 
-📧 **Email:** mannaroshmita@gmai.com
+📧 Email: mannaroshmita@gmai.com
 
-💼 **LinkedIn:** https://www.linkedin.com/in/roshmita-manna/
+💼 LinkedIn: https://www.linkedin.com/in/roshmita-manna/
 
-🐙 **GitHub:*  https://github.com/mannaroshmita-lgtm
+🐙 GitHub:  https://github.com/mannaroshmita-lgtm
 
 
